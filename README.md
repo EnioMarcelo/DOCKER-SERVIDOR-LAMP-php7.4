@@ -1,5 +1,5 @@
 # DOCKER SERVIDOR LAMP
-SERVIDOR LAMP - Apache2, PHP 7.4, Mysql 5.7
+DOCKER - SERVIDOR LAMP - Apache2, PHP 7.4, Mysql 5.7
 
 docker-compose.yml
 

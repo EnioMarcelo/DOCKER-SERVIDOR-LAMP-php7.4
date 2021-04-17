@@ -26,7 +26,7 @@ services:
         ipv4_address: 10.5.0.2
 
   db:
-    image: mysql:5.7
+    image: ebuzaneli/buzza-server-mysql:5.7
     hostname: buzza-mysql
     container_name: buzza-mysql
     restart: always
